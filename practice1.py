@@ -1,0 +1,2 @@
+stuff="Wow"
+dir(stuff)
